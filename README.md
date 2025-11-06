@@ -10,6 +10,6 @@ This is Anais Huang:
 
 ## Languages
 
-- Chinese [mother tone]
+- (Chinese) Mandarin [mother tone]
 - English [fluent]
 - French [Basic]
